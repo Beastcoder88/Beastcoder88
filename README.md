@@ -1,6 +1,6 @@
 # Hi, I'm Akash 👋
 
-**Aspiring data analyst** · 3rd-year B.Tech student at [Your College]
+**Aspiring data analyst** · 3rd-year B.Tech student at iiit Bhubaneswar.
 
 I turn raw data into answers with **SQL, Power BI and Python**, and I'm exploring how GenAI can let non-technical teams ask questions of their data in plain English.
 
